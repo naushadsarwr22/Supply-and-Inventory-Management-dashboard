@@ -25,4 +25,7 @@ Supply and Inventory Management dashboard is a dynamic and an interactive data v
 	- File Format – .pbix for development and .png for dashboard previews.
 ## Dashboard
 <img src="https://github.com/naushadsarwr22/Supply-and-Inventory-Management-dashboard/blob/main/Home%20Page.png" width="900" height="600">
+<img src="https://github.com/naushadsarwr22/Supply-and-Inventory-Management-dashboard/blob/main/Stock_In_Page.png" width="900" height="600">
+<img src="https://github.com/naushadsarwr22/Supply-and-Inventory-Management-dashboard/blob/main/Stock_Out_Page.png" width="900" height="600">
+<img src="https://github.com/naushadsarwr22/Supply-and-Inventory-Management-dashboard/blob/main/Stock_Out_Page.png" width="900" height="600">
 
